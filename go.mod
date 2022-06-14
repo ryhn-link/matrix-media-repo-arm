@@ -3,6 +3,7 @@ module github.com/turt2live/matrix-media-repo
 go 1.16
 
 require (
+	github.com/adrium/goheif v0.0.0-20210309200126-b184a7b446fa // indirect
 	github.com/DavidHuie/gomigrate v0.0.0-20190826182718-4adc4b3de142
 	github.com/Jeffail/tunny v0.0.0-20210126202424-1b37d6cb867a
 	github.com/PuerkitoBio/goquery v1.6.1
@@ -44,7 +45,6 @@ require (
 	github.com/ipfs/go-ipfs-config v0.12.0
 	github.com/ipfs/go-ipfs-files v0.0.8
 	github.com/ipfs/interface-go-ipfs-core v0.4.0
-	github.com/jdeng/goheif v0.0.0-20200323230657-a0d6a8b3e68f
 	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869 // indirect
 	github.com/k3a/html2text v1.0.7
 	github.com/kettek/apng v0.0.0-20191108220231-414630eed80f

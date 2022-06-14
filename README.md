@@ -1,3 +1,5 @@
+This fork includes patches from [this issue](https://github.com/turt2live/matrix-media-repo/issues/365#issuecomment-1086269531) to make it compile on ARM64.
+
 # matrix-media-repo
 
 [![Build status](https://badge.buildkite.com/4205079064098cf0abf5179ea4784f1c9113e875b8fcbde1a2.svg)](https://buildkite.com/t2bot/matrix-media-repo)
